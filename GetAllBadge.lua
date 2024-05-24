@@ -1,9 +1,2 @@
---[[ Txt Obfuscated by Owner (final update)
-Credit
-- Creator 
-- Bugs Fixer
-- Scripter
-- Owner
-Yes, i make this Obfuscator with noone
-]]--
-loadstring("\112\114\105\110\116\40\34\32\89\79\85\82\32\83\67\82\73\80\84\32\72\69\82\69\33\33\32\34\41\10")()
+game.Players.LocalPlayer:Kick("[SCRIPT UPDATE] Please retake the script at https://pastebin.com/GQFvWytc")
+setclipboard("https://pastebin.com/GQFvWytc")
