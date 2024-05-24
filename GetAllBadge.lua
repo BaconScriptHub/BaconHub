@@ -1,4 +1,4 @@
---[[ Txt Obfuscated by Zxveo V3 (final update)
+--[[ Txt Obfuscated by Owner (final update)
 Credit
 - Creator 
 - Bugs Fixer
