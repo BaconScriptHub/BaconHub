@@ -1,2 +1,0 @@
-game.Players.LocalPlayer:Kick("[SCRIPT UPDATE] Please retake the script at https://pastebin.com/QnJsYexH")
-setclipboard("https://pastebin.com/QnJsYexH")
